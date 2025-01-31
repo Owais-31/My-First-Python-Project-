@@ -1,9 +1,19 @@
-# My-First-Python-Project-
+# My First Python Project 🎉
+
 This is my first Python project. It greets users based on their input using a simple function.
 
-# HOW TO RUN:
-1. Install Python from [https://python.org](https://python.org).
-2. Run the following command:
-   greet_user().py
+## How to Run:
 
-3. Enter your name when prompted , and enjoy the greeting.
+1. **Install Python** from [python.org](https://python.org).
+2. **Run the following command** in your terminal or command prompt:
+python greet_user.py
+
+markdown
+Copy
+Edit
+3. **Enter your name** when prompted, and enjoy the greeting!
+
+## Future Improvements:
+- Add error handling for invalid inputs.
+- Implement a graphical user interface (GUI) version.
+- Add additional features, such as a personalized message based on age.
