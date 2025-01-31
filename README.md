@@ -8,9 +8,6 @@ This is my first Python project. It greets users based on their input using a si
 2. **Run the following command** in your terminal or command prompt:
 python greet_user.py
 
-markdown
-Copy
-Edit
 3. **Enter your name** when prompted, and enjoy the greeting!
 
 ## Future Improvements:
